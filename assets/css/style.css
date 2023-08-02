@@ -494,6 +494,45 @@ section .center.section-title::after {
   border-radius: 16px;
 }
 
+/* #gallery .container{
+  display: flex;
+  overflow: hidden;
+  white-space: nowrap;
+} */
+
+
+/* marquee{
+  display: inline-block;
+} */
+
+/* salinannn marquee */
+/* #mq1 {
+  animation: marquee 10s linear infinite;
+}
+
+#mq2 {
+  animation: marquee2 10s linear infinite;
+  animation-delay: 5s;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes marquee2 {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-200%);
+  }
+} */
+
 /* Footer */
 footer {
   padding: 16px 0;
@@ -517,6 +556,6 @@ footer {
   padding: 15px;
   border-radius: 4px;
   background-color: var(--dark-color);
-  display: none;
+
   
 }

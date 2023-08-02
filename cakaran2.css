@@ -61,3 +61,24 @@
   }
 
   
+#tesmq {
+  
+  max-width: 1150px;
+  max-height: 500px;
+}
+
+#tesmq .marque {
+  width: 100%;
+}
+
+#tesmq .marque img{
+  width: 100%;
+}
+
+
+ .marque{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  animation: scroll 15s infinite;
+ }
